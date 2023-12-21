@@ -1,3 +1,4 @@
+<?php require_once './function/get_ware.php'; ?>
 <?php require_once './elements/header.php'; ?>
 
 	<!-- Start Sample Area -->
