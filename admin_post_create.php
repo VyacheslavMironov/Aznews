@@ -23,7 +23,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <label for="" class="form-label">Укажите изображение</label>
-                                    <input type="file" name="input" class="form-control">
+                                    <input type="file" name="photo" class="form-control">
                                 </div>
                                 <button class="btn btn-primary" type="submit">Отправить</button>
                            </form> 

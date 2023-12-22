@@ -16,7 +16,8 @@ function create_tag_table(PDO $connect)
         CREATE TABLE tags
         (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            name VARCHAR NOT NULL
+            name VARCHAR NOT NULL,
+            color CHAR(20) NOT NULL
         );
         "
     );

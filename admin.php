@@ -13,6 +13,7 @@
                         <div class="col-5 mx-auto card p-3">
                             <div class="mb-3">
                                 <a href="admin_post_create.php" class="w-100 btn btn-primary">Добавить пост</a>
+                                <a href="admin_tags.php" class="w-100 btn btn-primary">Теги</a>
                             </div>
                         </div>
                     </div>
