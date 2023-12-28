@@ -15,7 +15,7 @@ if ($connect->prepare("
         "description" => $_POST["description"],
         "image" => move_uploaded_file(
             $_FILE['photo']['tmp_name'],
-            __DIR__ . '/movie/' .$_FILE['photo']['name']
+            'movie/' .$_FILE['photo']['name']
         ),
     ])
 )
